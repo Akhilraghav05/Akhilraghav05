@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Front End projects
 - 🌱 I’m currently learning ...NextJs
 - 💞️ I’m looking to collaborate on ...Open Sources
-- 📫 How to reach me ...
+- 📫 How to reach me ... akhilraghav05@gmail.com
 
 <!---
 Akhilraghav05/Akhilraghav05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
